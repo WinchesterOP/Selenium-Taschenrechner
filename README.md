@@ -1,4 +1,4 @@
-# FirstSelenium
+# Selenium-Taschenrechner
 
 Testen einen Webtaschenrechners. Einfache Funktionsaufrufe
 
